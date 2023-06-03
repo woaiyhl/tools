@@ -1,0 +1,7 @@
+SwitchHosts!.zip filter=lfs diff=lfs merge=lfs -text
+Visual[[:space:]]Studio[[:space:]]Code.zip filter=lfs diff=lfs merge=lfs -text
+macjihuo.zip filter=lfs diff=lfs merge=lfs -text
+10370104-015a-4517-8ba3-3dbcb260560a.yaml filter=lfs diff=lfs merge=lfs -text
+ClashX.zip filter=lfs diff=lfs merge=lfs -text
+EasyConnect_7_6_7_4.dmg.zip filter=lfs diff=lfs merge=lfs -text
+README.md filter=lfs diff=lfs merge=lfs -text
